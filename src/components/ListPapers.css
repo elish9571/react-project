@@ -1,0 +1,16 @@
+.details-in-paper {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .service-name {
+    font-weight: bold;
+  }
+  
+  .service-price {
+    color: #888;
+  }
+  
+  .service-description {
+    color: #555;
+  }

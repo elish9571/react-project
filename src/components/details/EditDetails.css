@@ -1,0 +1,14 @@
+.styled-input {
+    text-align: right;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .styled-input:focus {
+    outline: none;
+    box-shadow: 0 0 5px #aaa;
+  }

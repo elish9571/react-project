@@ -1,0 +1,16 @@
+#container{
+margin: 5%;
+}
+#listPapers{
+    position: absolute;
+    justify-content: space-between;
+    left:50%;
+    right: 7%;
+    top: 21%;
+    direction: rtl;
+}
+#details{
+    position: absolute;
+    left: 10%;
+    top: 21%;
+}
